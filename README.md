@@ -1,2 +1,2 @@
-# Students Guide to Advanced Python
- Students' Guide to Advanced Python, by BPB Publications
+# Advanced Python Guide
+Advanced Python Guide, by BPB Publications
